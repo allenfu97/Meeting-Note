@@ -1,15 +1,16 @@
 * Septerber 18, 2018
 ** Attendees
 
-| Name              | Year | Major | Interest                     |
-|-------------------+------+-------+------------------------------|
-| Lesley Lai        |    2 |       | Computer Graphics, and       |q
-| Austin Rowen      |    2 |       | Computer                     |
-| John Gossett      |    2 |       | Everything CS, Videogame dev |
-| Clint Eisenzimmer |    1 |       | Video game dev, unreal       |
-| Nick Jackson      |    2 |       | CS                           |
-| Tiffany           |    2 |       | CS                           |
-| Elizabeth         |    3 |       | Video Games dev              |
+| Name              | Year | Interest                      |
+|-------------------+------+-------------------------------|
+| Lesley Lai        |    2 | Computer Graphics, and        |
+| Austin Rowen      |    2 | Computer                      |
+| John Gossett      |    2 | Everything CS, Video game dev |
+| Clint Eisenzimmer |    1 | Video game dev, Unreal        |
+| Nick Jackson      |    2 | All CS                        |
+| Tiffany           |    2 | All CS                        |
+| Elizabeth         |    3 | Video Games dev               |
+|                   |      |                               |
 
 * About CU Computer Graphics Group
 ** 
