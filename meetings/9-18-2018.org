@@ -1,0 +1,50 @@
+* Septerber 18, 2018
+** Attendees
+
+| Name              | Year | Major | Interest                     |
+|-------------------+------+-------+------------------------------|
+| Lesley Lai        |    2 |       | Computer Graphics, and       |q
+| Austin Rowen      |    2 |       | Computer                     |
+| John Gossett      |    2 |       | Everything CS, Videogame dev |
+| Clint Eisenzimmer |    1 |       | Video game dev, unreal       |
+| Nick Jackson      |    2 |       | CS                           |
+| Tiffany           |    2 |       | CS                           |
+| Elizabeth         |    3 |       | Video Games dev              |
+
+* About CU Computer Graphics Group
+** 
+- Join the group at [[https://orgsync.com/156978/chapter][Group portal]]
+- Please also join the [[https://join.slack.com/t/cucomputergraphics/shared_invite/enQtMzgyMzgzNDY5ODg5LTAzMWNkZDY1MDY2YWE5MzY4OTkyNWI5ZmNkMmQ4ZTUzZWNmN2JjN2UxOGZiM2Y2YWI5YmE0OTBmNTAyY2NjNDU][Slack Channel]]
+- Need a website
+
+** Goals
+*** ACM Siggraph Chapter
+*** *weekly* meeting
+*** One presentation each time
+
+* Leadership Group
+Need to join both [[https://www.acm.org/][ACM]] and [[https://www.siggraph.org/][ACM Siggraph]].
+** President
+Lesley Lai
+** Vice President
+Tiffany
+** Secretary
+Elizabeth
+** Treasurer
+Austin
+
+* Talk idea brainstorms
+- Ray Tracing & Path Tracing
+- GPU & CPU
+- Shaders
+- Intro Real-time rendering
+- Tools
+- Game Engine
+- Blender
+- Particle system
+- Animation
+- Sound
+
+* Recap & Next Steps
+** Lesley Lai will talk about Ray Tracing next time
+** Start team projects later once everyone is on board
