@@ -1,3 +1,6 @@
 * Meeting Note
-** [[file:meetings/9-18-2018.org][September 18, 2018]] interest meeting
+** [[file:meetings/9-18-2018.org][September 18, 2018]]: interest meeting
 We introduced ourself, brainstormed talk ideas, and the formed the administrations.
+
+** October 2, 2018: Lesley Lai talk about Ray Tracing
+Lesley Lai had a hour talk about design and implementation of [[https://dl.acm.org/citation.cfm?id=358882][Whitted Ray Tracing Algorithms]]. Find the slides [[http://lesleylai.info/slides/ray-tracing][here]].
