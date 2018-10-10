@@ -1,0 +1,9 @@
+* October 09, 2018
+** Leadership changes
+*** Co-Vp
+    Joshua Franklin
+
+** Josh gave a talk on sprite sheets
+- What sprite sheets are, why sprite sheets are used
+- Live coding demo
+- Slides and code can be found on GitHub: https://git.io/fxZuH

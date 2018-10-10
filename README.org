@@ -4,3 +4,5 @@ We introduced ourself, brainstormed talk ideas, and the formed the administratio
 
 ** October 2, 2018: Lesley Lai talk about Ray Tracing
 Lesley Lai had a hour talk about design and implementation of [[https://dl.acm.org/citation.cfm?id=358882][Whitted Ray Tracing Algorithms]]. Find the slides [[http://lesleylai.info/slides/ray-tracing][here]].
+
+** [[file:meetings/10-9-2018.org][October 9, 2018]]: Josh gave a talk on sprite sheets
