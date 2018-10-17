@@ -6,3 +6,6 @@ We introduced ourself, brainstormed talk ideas, and the formed the administratio
 Lesley Lai had a hour talk about design and implementation of [[https://dl.acm.org/citation.cfm?id=358882][Whitted Ray Tracing Algorithms]]. Find the slides [[http://lesleylai.info/slides/ray-tracing][here]].
 
 ** [[file:meetings/10-9-2018.org][October 9, 2018]]: Josh gave a talk on sprite sheets
+
+** : October 16, 2018: Graphics Hack Night: Ray tracer 1
+We implements the *Ray* class and part of the *Camera* class. Find the codebase [[https://github.com/CUComputerGraphicsGroup/Graphics-Hack-Night][here]]
