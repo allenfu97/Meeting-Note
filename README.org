@@ -9,3 +9,6 @@ Lesley Lai had a hour talk about design and implementation of [[https://dl.acm.o
 
 ** October 16, 2018: Graphics Hack Night: Ray tracer 1
 We implements the *Ray* class and part of the *Camera* class. Find the codebase [[https://github.com/CUComputerGraphicsGroup/Graphics-Hack-Night][here]]
+
+** October 23, 2018: Graphics Hack Night: Ray tracer 2
+We implements the remaining part of the *Camera* class; Find the codebase [[https://github.com/CUComputerGraphicsGroup/Graphics-Hack-Night][here]]. We also discuss the changing officers, joining [[https://www.siggraph.org/][ACM Siggraph]] as a student chapter, and getting fundings.
