@@ -3,6 +3,9 @@
 *** Treasurer
 Vincent Liu
 
+*** Secretary
+Allen Fu
+
 ** Computer Graphics News we discussed
 - [[http://www.pbr-book.org/3ed-2018/contents.html][Physically Based Rendering 3rd Edition]] is free online now!
 - [[https://www.jendrikillner.com/post/graphics-programming-weekly-issue-60/][Graphics Programming weekly - Issue 60 — October 28, 2018]]
