@@ -1,0 +1,10 @@
+* October 09, 2018
+** Leadership changes
+*** Treasurer
+Vincent Liu
+    
+** Josh gave a talk on HTML5 Canvas
+- Github Repository: https://git.io/fxHwS
+- Slides: https://docs.google.com/presentation/d/1kVLYmKJINIPCpwfxPRkinSUGQmrnoo6QRIoOjUsqr7o/edit?usp=sharing
+- Finished Game: https://bit.ly/2OUuplO
+- Demo Boilerplate: https://bit.ly/2D8ndfD
