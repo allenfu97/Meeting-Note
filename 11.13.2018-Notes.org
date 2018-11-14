@@ -1,0 +1,16 @@
+*November 13, 2018
+
+**Lesley gave a talk on Three.js
+-What Three.js are, why Three.js are used?
+-Live coding demo
+-Slides and code can be found on github: https://lesleylai.github.io/BasicsOfThreeJS/
+
+Activties
+Download Lesley's Basics of Three.js file and step through the code using a text editor(visual studio or emac etc).
+
+---Notes---
+***-Three.js is a JS 3D Engine
+***-Three.js has base class, one of derived class is perspective camera
+***const camera, dosen't mean whole variable is a constant, means camera itself cannot equal to another camera. Camera pointer is fixed.
+
+
