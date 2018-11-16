@@ -1,0 +1,5 @@
+* Lesley gave a talk on Three.js
+Lesley Lai talks about what is Three.js and why and how to use it.
+
+- Slides: [[https://lesleylai.github.io/BasicsOfThreeJS/#1][here]]
+- Repository: at [[https://github.com/LesleyLai/BasicsOfThreeJS][github]]

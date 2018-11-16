@@ -14,3 +14,5 @@ We implements the *Ray* class and part of the *Camera* class. Find the codebase 
 We implements the remaining part of the *Camera* class; Find the codebase [[https://github.com/CUComputerGraphicsGroup/Graphics-Hack-Night][here]]. We also discuss the changing officers, joining [[https://www.siggraph.org/][ACM Siggraph]] as a student chapter, and getting fundings.
 
 ** [[file:meetings/10-30-2018.org][October 30, 2018]]: Joshua Franklin: HTML5 Canvas
+
+** [[file:meetings/11-13-2018.org][November 13, 2018]]: Lesley Lai talk about Three.js
